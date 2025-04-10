@@ -1,0 +1,6 @@
+id_venda,data_venda,cliente_id,produto,quantidade,preco_unitario,valor_total,wpp_opt_in
+1,2025-04-01,1001,Caneta,10,2.50,25.00,1
+2,2025-04-01,1002,Lápis,5,1.00,5.00,0
+3,2025-04-02,1001,Caderno,2,15.00,30.00,1
+4,2025-04-03,1003,Borracha,3,0.80,2.40,0
+5,2025-04-03,1004,Mochila,1,120.00,120.00,1
